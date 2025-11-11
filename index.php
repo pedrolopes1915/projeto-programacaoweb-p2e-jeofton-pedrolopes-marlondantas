@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>Olá, mundo!</h1>
-    <p>Esse é o meu primeiro commit.</p>
+    <p>Esse é o meu primeiro commit do Projeto de Jeofton</p>
 </body>
 </html>
